@@ -1,1 +1,8 @@
-# Darma-Wisesa
+Kegiatan:
+1. Membuat Repository
+2. Edit file README.md
+3. Edit file README.md
+4. Menambah file latihan.txt ke repository
+5. Membuat branch langsung saat commit
+6. Membuat branch langsung pada repository
+7. Melakukan pull request sesi-2 ke main branch
